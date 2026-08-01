@@ -52,7 +52,5 @@ automating deployments, and improving system reliability.
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
 - LinkedIn: www.linkedin.com/in/tpsonu
 - Email: sonutp7@gmail.com
