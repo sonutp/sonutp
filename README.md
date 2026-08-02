@@ -2,22 +2,13 @@
 
 ### Linux Administrator | DevOps & Cloud Engineer
 
-I’m a Linux Administrator and DevOps & Cloud enthusiast focused on
-building reliable infrastructure, automating deployments, and improving
-system monitoring and operational efficiency.
+### 🚀 About Me
 
----
+By day, I'm a Linux Administrator turned DevOps Engineer at Unizion Technologies, wrangling servers and pipelines so they behave. By night, I'm still doing the same thing, just for fun, because apparently that's who I am now.
 
-## 🚀 About Me
+My toolbox: AWS, Terraform, Ansible, and Docker for infrastructure, Jenkins for CI/CD, and Prometheus, Grafana, and Zabbix for keeping an eye on things before they catch fire.
 
-- 🐧 Linux System Administration
-- ☁️ AWS Cloud Infrastructure
-- 🏗️ Infrastructure as Code with Terraform
-- ⚙️ Configuration Management with Ansible
-- 🐳 Containerization with Docker
-- 🔄 CI/CD with Jenkins
-- 📊 Monitoring & Observability with Prometheus, Grafana & Zabbix
-- 🌱 Continuously learning and building hands-on DevOps projects
+I learn by breaking things in hands-on projects, then figuring out how not to do that in production. Long-term goal: build systems that scale so smoothly, nobody even notices I'm there. 🐧☁️
 
 ---
 
